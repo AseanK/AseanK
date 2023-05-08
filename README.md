@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sean Kim</h1>
 <h3 align="center">Be creative</h3>
 
-- 🌱 I’m currently learning **Security / Pentesting**
+<p1 align="left">- 🌱 I’m currently learning **Security / Pentesting**</p1>
 
-- 📫 How to reach me **seank8809@gmail.com**
+<p1 align="left">- 📫 How to reach me **seank8809@gmail.com**</p1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
